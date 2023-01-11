@@ -1,5 +1,6 @@
-# business-ccurriculum
+# business-curriculum
 
+10-day MBA
 project budgeting 
 ethics
 marketing
